@@ -3,7 +3,7 @@
      And Software Engineering... 
 - 🌱 I’m currently learning Data Structure and
      Algorithm With Java.. 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on software engineering projects and java programing..
 - 📫 How to reach me @chopadevaibhav03
 
 <!---
