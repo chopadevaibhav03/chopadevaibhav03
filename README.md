@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Structure and Algorithm With Java.
 - 💼 Certified Java Full Stack Developer
 - 💼 NASSCOM BPM Certificate Holder
-- 💞️ I’m looking to collaborate on software engineering projects and Java backend development.
+- 💞️ I’m looking to collaborate on software engineering projects and backend development .
 - 📫 How to reach me: chopadevaibhav03@gmail.com
 
 
